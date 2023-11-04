@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
 <h3 align="center">A passionate Laravel dev from Banyumas, Indonesia</h3>
 
-- 🔭 I’m currently working on [Laravel Livewire (Lali) Starter Kit](https://github.com/arifbudimanar/lali)
+- 🔭 I’m currently working on [Laravel Livewire (Lali) Starter Kit](https://github.com/arifbudimanar/lali) and I'm open for hiring
 - 🌱 **TALL (TailwindCSS, AlpineJS, Laravel, Livewire) Stack** is my favorite
 - 👯 I’m looking to collaborate on **Any Laravel Project Development**
-- 👨‍💻 All of my projects are available at [https://arifbudimanar.github.io/](https://arifbudimanar.github.io/)
-- 📝 I regularly write articles on [https://arifbudimanar.github.io/posts/](https://arifbudimanar.github.io/posts/)
-- 💬 Ask me about **tailwind alpine laravel livewire**
+- 👨‍💻 All of my projects are available at [https://github.com/arifbudimanar](https://github.com/arifbudimanar)
+- 📝 I regularly write articles on [https://arifbudimanar.github.io/posts](https://arifbudimanar.github.io/posts)
+- 💬 Ask me about **tailwindcss, alpinejs, laravel, livewire, filament, etc**
 - 📫 How to reach me **arifbudimanarrosyid@gmail.com**
-- 📄 Know about my experiences [https://arifbudimanar.github.io/about/](https://arifbudimanar.github.io/about/)
+- 📄 Know about my experiences [https://arifbudimanar.github.io/about](https://arifbudimanar.github.io/about)
 
 ### Contact Me
 
@@ -29,25 +29,26 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+### Maintained VSCode Extension
+
+- [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack)
+- [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
+
+### Maintained Laravel Package
+
+- [Laravel Livewire (Lali) Starter Kit](https://packagist.org/packages/arifbudimanar/lali)
+
 ### Software & Tools
 
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Service
-
-![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-
-### My VSCode Plugin
-
-- [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack)
-- [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
