@@ -38,7 +38,7 @@
 - [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack) - Maintained
 - [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
 
-### Finished Project
+### Finished Laravel Project
 
 - PTSP - Company Project - Not maintained anymore
 - [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Not maintained anymore
