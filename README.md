@@ -29,14 +29,21 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### Maintained VSCode Extension
+### Laravel Package
 
-- [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack)
-- [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
+- [Laravel Livewire (Lali) Starter Kit](https://packagist.org/packages/arifbudimanar/lali) - Maintained
 
-### Maintained Laravel Package
+### VSCode Extension
 
-- [Laravel Livewire (Lali) Starter Kit](https://packagist.org/packages/arifbudimanar/lali)
+- [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack) - Maintained
+- [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
+
+### Finished Project
+
+- PTSP - Company Project - Not maintained anymore
+- [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Not maintained anymore
+- [WPU Laravel (Blog System)](https://github.com/arifbudimanar/wpu-laravel) - Not maintained anymore
+- etc.
 
 ### Software & Tools
 
