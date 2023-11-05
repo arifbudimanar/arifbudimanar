@@ -40,7 +40,7 @@
 
 ### Finished Laravel Project
 
-- PTSP - Company Project - Not maintained anymore
+- Layanan PTSP Online MAN 1 YOGYAKARTA - Company Project - Not maintained anymore
 - [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Not maintained anymore
 - [WPU Laravel (Blog System)](https://github.com/arifbudimanar/wpu-laravel) - Not maintained anymore
 - etc.
