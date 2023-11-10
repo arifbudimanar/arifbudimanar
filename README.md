@@ -29,6 +29,17 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+### Finished Laravel Project
+
+- Layanan PTSP Online MAN 1 YOGYAKARTA - Company Project - Not maintained anymore
+- [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Not maintained anymore
+- [WPU Laravel (Blog System)](https://github.com/arifbudimanar/wpu-laravel) - Not maintained anymore
+- etc.
+
+### Other Project
+
+- [Portofolio Site](https://arifbudimanar.github.io/) - made with [Static](https://static.devdojo.com/)
+
 ### Laravel Package
 
 - [Laravel Livewire (Lali) Starter Kit](https://packagist.org/packages/arifbudimanar/lali) - Maintained
@@ -37,13 +48,6 @@
 
 - [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack) - Maintained
 - [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
-
-### Finished Laravel Project
-
-- Layanan PTSP Online MAN 1 YOGYAKARTA - Company Project - Not maintained anymore
-- [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Not maintained anymore
-- [WPU Laravel (Blog System)](https://github.com/arifbudimanar/wpu-laravel) - Not maintained anymore
-- etc.
 
 ### Software & Tools
 
