@@ -68,24 +68,24 @@
 
 - [Laravel Livewire (Lali) Starter Kit](https://packagist.org/packages/arifbudimanar/lali) - Maintained
 
-  ![Laravel](https://img.shields.io/badge/Laravel-10-f4645f.svg?style=flat-square&logo=laravel&logoColor=red&labelColor=ffff&color=FF2D20)
-  ![PHP Version Require](https://poser.pugx.org/arifbudimanar/lali/require/php)
-  ![License](https://poser.pugx.org/arifbudimanar/lali/license)
-  ![Latest Stable Version](https://poser.pugx.org/arifbudimanar/lali/v)
-  ![Total Downloads](https://poser.pugx.org/arifbudimanar/lali/downloads)
+  ![Laravel](https://img.shields.io/badge/Laravel-10-f4645f.svg?style=for-the-badge&logo=laravel&logoColor=red&labelColor=ffff&color=FF2D20)
+  ![PHP Version Require](https://poser.pugx.org/arifbudimanar/lali/require/php?style=for-the-badge)
+  ![License](https://poser.pugx.org/arifbudimanar/lali/license?style=for-the-badge)
+  ![Latest Stable Version](https://poser.pugx.org/arifbudimanar/lali/v?style=for-the-badge)
+  ![Total Downloads](https://poser.pugx.org/arifbudimanar/lali/downloads?style=for-the-badge)
 
 ### VSCode Extension
 
 - [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
 
-  [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.better-laravel-extension-pack?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack)
-  [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.better-laravel-extension-pack?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack)
-  [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.better-laravel-extension-pack?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack&ssr=false#version-history)
-  [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.better-laravel-extension-pack?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack&ssr=false#review-details)
+  [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack)
+  [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack)
+  [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack&ssr=false#version-history)
+  [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack&ssr=false#review-details)
 
 - [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
 
-  [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.arifcode-theme?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
-  [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.arifcode-theme?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
-  [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.arifcode-theme?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme&ssr=false#version-history)
-  [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.arifcode-theme?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme&ssr=false#review-details)
+  [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.arifcode-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
+  [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.arifcode-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
+  [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.arifcode-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme&ssr=false#version-history)
+  [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.arifcode-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme&ssr=false#review-details)
