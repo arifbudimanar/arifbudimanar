@@ -55,9 +55,9 @@
 
 ### Finished Laravel Project
 
-- Layanan PTSP Online MAN 1 YOGYAKARTA - Company Project - Not maintained
-- [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Company Project - Not maintained
-- [WPU Laravel (Blog System)](https://github.com/arifbudimanar/wpu-laravel) - Not maintained
+- Layanan PTSP Online MAN 1 YOGYAKARTA - Company Project - Not Maintained
+- [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Company Project - Not Maintained
+- [WPU Laravel (Blog System)](https://github.com/arifbudimanar/wpu-laravel) - Personal Project - Not Maintained
 - etc.
 
 ### Other Project
