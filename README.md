@@ -62,7 +62,7 @@
 
 ### Other Project
 
-- [Portofolio Site](https://arifbudimanar.github.io/) - made with [Static](https://static.devdojo.com/)
+- [Portofolio Site](https://github.com/arifbudimanar/arifbudimanar.github.io) - [https://arifbudimanar.github.io/](https://arifbudimanar.github.io/) - made with [Static](https://static.devdojo.com/)
 
 ### Laravel Package
 
