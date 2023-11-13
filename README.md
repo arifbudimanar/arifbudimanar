@@ -76,16 +76,16 @@
 
 ### VSCode Extension
 
-- [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack) - Maintained
-
-  ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
-  ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
-  ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
-  ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
-
 - [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
 
   ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.arifcode-theme?style=for-the-badge)
   ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.arifcode-theme?style=for-the-badge)
   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.arifcode-theme?style=for-the-badge)
   ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.arifcode-theme?style=for-the-badge)
+
+- [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack) - Maintained
+
+  ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
+  ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
+  ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
+  ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.better-laravel-extension-pack?style=for-the-badge)
