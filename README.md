@@ -66,7 +66,7 @@
 
 ### Laravel Package
 
-- [Laravel Livewire (Lali) Starter Kit](https://packagist.org/packages/arifbudimanar/lali) - Maintained
+- [Lali (Laravel Livewire) Starter Project](https://packagist.org/packages/arifbudimanar/lali) - Maintained
 
   ![Laravel](https://img.shields.io/badge/Laravel-10-f4645f.svg?style=for-the-badge&logo=laravel&logoColor=red&labelColor=ffff&color=FF2D20)
   ![PHP Version Require](https://poser.pugx.org/arifbudimanar/lali/require/php?style=for-the-badge)
@@ -76,12 +76,19 @@
 
 ### VSCode Extension
 
-- [ArifCode Theme](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
+- [ArifCode Theme - Original](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme) - Maintained
 
   ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.arifcode-theme?style=for-the-badge)
   ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.arifcode-theme?style=for-the-badge)
   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.arifcode-theme?style=for-the-badge)
   ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.arifcode-theme?style=for-the-badge)
+
+- [ArifCode Theme - Windows](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme-windows) - Maintained
+
+  ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/arifbudimanar.arifcode-theme-windows?style=for-the-badge)
+  ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/arifbudimanar.arifcode-theme-windows?style=for-the-badge)
+  ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/arifbudimanar.arifcode-theme-windows?style=for-the-badge)
+  ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/arifbudimanar.arifcode-theme-windows?style=for-the-badge)
 
 - [Better Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack) - Maintained
 
