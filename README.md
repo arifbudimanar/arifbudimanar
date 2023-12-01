@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
 <h3 align="center">A passionate Laravel dev from Banyumas, Indonesia</h3>
 
-- 🔭 I’m currently working on [Laravel Livewire (Lali) Starter Kit](https://github.com/arifbudimanar/lali) and I'm open for hiring
+- 🔭 I’m currently working on [Laravel Livewire (Lali) Starter Project](https://github.com/arifbudimanar/lali) and I'm open for hiring
 - 🌱 **TALL (TailwindCSS, AlpineJS, Laravel, Livewire) Stack** is my favorite
 - 👯 I’m looking to collaborate on **Any Laravel Project Development**
 - 👨‍💻 All of my projects are available at [https://github.com/arifbudimanar](https://github.com/arifbudimanar)
