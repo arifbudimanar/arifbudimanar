@@ -25,6 +25,8 @@
 <a href="https://t.me/arifbudimanarrosyid" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 <a href="https://instagram.com/arifbudimanarrosyid" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 <a href="https://twitter.com/arifbudiman_id" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=arifbudimanar&style=for-the-badge" alt="profile" /></a>
+![](https://hit.yhype.me/github/profile?user_id=147667935)
 
 ### Tech Stack
 
