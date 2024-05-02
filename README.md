@@ -31,6 +31,16 @@
 <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=arifbudimanar&style=for-the-badge" alt="profile" /></a>
 ![](https://hit.yhype.me/github/profile?user_id=147667935)
 
+### Referrals
+
+Best server and get $200 in Digital Ocean credit for 60 days.
+
+[![DigitalOcean Referral Badge](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/?refcode=01c73499f1fc&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+The best server management I used.
+
+[![Ploi Referral Badge](https://img.shields.io/badge/Ploi-0080FF?style=for-the-badge&logo=Ploi&logoColor=white)](https://ploi.io/register?referrer=xT1kZ8DjnEtNqMkgP8cl)
+
 ### Laravel Project
 
 - [SIMCARATA (Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo)](http://simcarata.org/) - Company Project - Maintaining
