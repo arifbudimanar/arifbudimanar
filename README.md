@@ -48,15 +48,15 @@ The best server management I used.
 - [WPU Laravel (Blog System)](https://github.com/arifbudimanar/wpu-laravel) - Personal Project
 - etc.
 
-### Static Site
+<!-- ### Static Site -->
 
-- [Portofolio](https://github.com/arifbudimanar/arifbudimanar.github.io) - [https://arifbudimanar.github.io/](https://arifbudimanar.github.io/) - made with [Static](https://static.devdojo.com/)
+<!-- - [Portofolio](https://github.com/arifbudimanar/arifbudimanar.github.io) - [https://arifbudimanar.github.io/](https://arifbudimanar.github.io/) - made with [Static](https://static.devdojo.com/) -->
 
-### Laravel Boiletplate
+### Laravel Boilerplate
 
 - [TALL (Tailwind Alpine Laravel Livewire) Boilerplate](https://github.com/arifbudimanar/tall) - [Demo](https://tall.arifcode.dev) - Maintaining
 
-  A TALL (Tailwind, AlpineJs, Laravel, Livewire) Stack boilerplate with minimalist design, ready to boost your web app development journey.
+  A TALL Stack boilerplate with minimalist design, ready to boost your web app development journey.
   Ready to use:
 
   - Auth (Register, Login, Logout, Verify, Password Reset, Password Request, Password Create, Password Confirm)
