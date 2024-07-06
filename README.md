@@ -54,18 +54,24 @@ The best server management I used.
 
 ### Laravel Boiletplate
 
-- [TALL](https://github.com/arifbudimanar/tall) - [Demo](http://152.42.240.217/) - WIP
+- [TALL (Tailwind Alpine Laravel Livewire) Boilerplate](https://github.com/arifbudimanar/tall) - [Demo](https://tall.arifcode.dev) - Maintaining
 
   A TALL (Tailwind, AlpineJs, Laravel, Livewire) Stack boilerplate with minimalist design, ready to boost your web app development journey.
   Ready to use:
 
-  - Auth
+  - Auth (Register, Login, Logout, Verify, Password Reset, Password Request, Password Create, Password Confirm)
   - Oauth (Github, Gmail)
-  - Styled Blade Component
-  - 4 App Layout (Admin, App, Auth, Main)
-  - etc.
+  - Public Page (Home, Privacy Policy, Term Of Service) - Top navigation
+  - User Page (User Dashboard, Profile, Setting) - Top Navigation
+  - Admin Page (Admin Dashboard, CRUD User) - Sidebar Navigation
+  - SPA (wire:navigate) and Fullpage Livewire Component.
+  - Livewire Toaster
+  - Anonymouse Blade Component (Card, Button, Dropdown, Banner, Badge, Text Input, Trix Editor, Breadcrumb, Table, Stats, etc)
+  - Multi Languange (English, Indonesian)
+  - 4 App Layout (Main, Auth, App, Admin)
+  - And much more
 
-- [Lali (Laravel Livewire) Starter Project](https://packagist.org/packages/arifbudimanar/lali) - Deprecated
+- [Lali (Laravel Livewire) Starter Project](https://packagist.org/packages/arifbudimanar/lali) - Deprecated, I make better one, Please checkout [TALL](https://github.com/arifbudimanar/tall)
 
   <!-- ![Laravel](https://img.shields.io/badge/Laravel-10-f4645f.svg?style=for-the-badge&logo=laravel&logoColor=red&labelColor=ffff&color=FF2D20)
   ![PHP Version Require](https://poser.pugx.org/arifbudimanar/lali/require/php?style=for-the-badge)
